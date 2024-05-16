@@ -1,0 +1,10 @@
+#elemento {
+    margin-left: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    transition: transform 0.5s ease;
+}
+#boton{
+    margin-bottom: 20px;
+}
